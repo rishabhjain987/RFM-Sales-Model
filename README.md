@@ -1,1 +1,1 @@
-# RFM-Sales-Model
+# RFM-Sales-Analysis-using-SQL
